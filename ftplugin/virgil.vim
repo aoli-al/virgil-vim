@@ -1,5 +1,5 @@
 setlocal commentstring=//\ %s
 
-set tabstop=8
+set tabstop=2
 set noexpandtab
-set shiftwidth=8
+set shiftwidth=2
